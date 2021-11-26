@@ -4,7 +4,7 @@ game 'gta5'
 name 'ESX FBI Job'
 description 'This script add the fbi job, for esx framework.'
 website 'https://github.com/ESX-FRANCE/esx_fbi_job'
-version '0.0.4'
+version '1.0.0'
 
 shared_scripts {
 	'@es_extended/locale.lua',
