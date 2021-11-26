@@ -32,7 +32,7 @@ fvm install --save --folder=esx esx-france/esx_fbi_job
 ### Using [git](https://git-scm.com/)
 ```
 cd resources
-git clone https://github.com/ESX-FRANCE/esx_fbi_job [esx]/esx_fbi_job
+git clone https://github.com/esx-france/esx_fbi_job [esx]/esx_fbi_job
 ```
 
 ### Manually
