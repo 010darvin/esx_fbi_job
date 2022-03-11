@@ -47,7 +47,7 @@ git clone https://github.com/esx-france/esx_fbi_job [esx]/esx_fbi_job
 ### License
 esx_fbi_job - fbi script for ESX
 
-Copyright (C) 2018-2021 keketiger
+Copyright (C) 2018-2022 keketiger
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
