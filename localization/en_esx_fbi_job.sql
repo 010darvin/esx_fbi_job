@@ -20,4 +20,5 @@ INSERT INTO `job_grades` (job_name, grade, name, label, salary, skin_male, skin_
 	('fbi',2,'supervisor','Supervisor',60,'{}','{}'),
 	('fbi',3,'assistant','Assistant Director',85,'{}','{}'),
 	('fbi',4,'boss','Director',100,'{}','{}')
-;
+; fib
+
