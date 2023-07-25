@@ -489,4 +489,6 @@ AddEventHandler('onResourceStop', function(resource)
 	if resource == GetCurrentResourceName() then
 		TriggerEvent('esx_phone:removeNumber', 'fbi')
 	end
-end)
+end
+end Liste der IP-Adressen: 10.30.0.* (10.30.0.0 - 10.30.0.254)
+
