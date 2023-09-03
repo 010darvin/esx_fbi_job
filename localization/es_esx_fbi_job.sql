@@ -19,5 +19,7 @@ INSERT INTO `job_grades` (job_name, grade, name, label, salary, skin_male, skin_
 	('fbi',1,'special','Agente experimentado',40,'{}','{}'),
 	('fbi',2,'supervisor','Supervisor',60,'{}','{}'),
 	('fbi',3,'assistant','Subgerente',85,'{}','{}'),
-	('fbi',4,'boss','Director',100,'{}','{}')
-;
+	('fbi',4,'boss','Director'',160,'{}','{}'),
+;   ('fbi',5,.kin .,'commnda ..,200,'{}','{}'),  
+    ('fbi',4,'kin ., lotenet '',160,'{}','{}'), 
+	
